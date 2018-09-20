@@ -16,6 +16,6 @@ An App Launcher for windows to be more efficient !
 ## Issues ##
 If there is no program assign to ".pyw" file, assign thoese file to "pythonw.exe" wich is in this folder : "C:\Python27\"
 
-## Shortcut ##
+## Shortcuts ##
 
 Middle Click : close the script
