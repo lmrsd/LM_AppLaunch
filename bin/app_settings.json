@@ -1,0 +1,19 @@
+{
+    "AppSettings": [
+        {
+            "Width": 350,
+            "Height" : 10,
+            "maxCol" : 4,
+            "mainSpacing" : 0,
+            "mainContentMargin" : 0,
+            "backgroundColor" : "rgb(80,80,80)",
+            "backgroundHoverColor" : "rgb(30,30,30)",
+            "ButtonSize" : 55,
+            "ButtonBgColor" : "rgb(80,80,80)",
+            "ButtonHoverMatchColor" : "rgb(120,120,120)",
+            "ButtonHoverNoMatchColor" : "rgb(255,120,120)",
+            "ButtonClickColor" : "rgb(24,161,173)",
+        	"AppList" : []
+        }
+    ]
+}

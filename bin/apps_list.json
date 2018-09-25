@@ -1,0 +1,174 @@
+{
+    "AppsList": [
+        {
+            "App Infos": "Put Info here ...", 
+            "App Root": "Autodesk",
+            "App Name": "3dsMax",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Autodesk\\3ds Max 2017\\3dsmax.exe", 
+            "App Thumbnail": "3ds.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        },
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "Pixologic", 
+            "App Name": "Zbrush",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Pixologic\\ZBrush 4R8\\ZBrush.exe", 
+            "App Thumbnail": "zbrush.png", 
+            "App Versions": "2018", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "Allegorithmic", 
+            "App Name": "Substance Painter",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Allegorithmic\\Substance Painter\\Substance Painter.exe", 
+            "App Thumbnail": "subspainter.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "Allegorithmic",  
+            "App Name": "Substance Designer",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Allegorithmic\\Substance Designer\\Substance Designer.exe", 
+            "App Thumbnail": "subsdesigner.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "", 
+            "App Name": "Mari",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Mari4.0v4\\Bundle\\bin\\Mari4.0v4.exe", 
+            "App Thumbnail": "mari.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...", 
+            "App Root": "",
+            "App Name": "Marvelous",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Marvelous Designer 7 Enterprise\\MarvelousDesigner7_Enterprise_x64.exe", 
+            "App Thumbnail": "marvelous.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "Adobe" ,
+            "App Name": "Photoshop",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Adobe\\Adobe Photoshop CC 2018\\Photoshop.exe", 
+            "App Thumbnail": "photoshop.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "Adobe" , 
+            "App Name": "After Effect",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Adobe\\Adobe After Effects CC 2018\\Support Files\\AfterFX.exe", 
+            "App Thumbnail": "Ae.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "" , 
+            "App Name": "DjvView",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\djv-1.1.0-Windows-64\\bin\\djv_view.exe", 
+            "App Thumbnail": "djv.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "" , 
+            "App Name": "PureRef",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\PureRef\\PureRef.exe", 
+            "App Thumbnail": "pureref.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "User" , 
+            "App Name": "Slack",
+            "App Category": [], 
+            "App Path": "C:\\Users\\user\\AppData\\Local\\slack\\app-3.3.1\\slack.exe", 
+            "App Thumbnail": "slack.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "" , 
+            "App Name": "Ftrack",
+            "App Category": [], 
+            "App Path": "https://capsule-studio.ftrackapp.com/", 
+            "App Thumbnail": "frtack.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }, 
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "" , 
+            "App Name": "Doc Capsule",
+            "App Category": [], 
+            "App Path": "https://192.168.0.100:8081/dokuwiki/doku.php?id=start", 
+            "App Thumbnail": "doc.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        },
+         {
+            "App Infos": "Put Info here ...",
+            "App Root": "Google" , 
+            "App Name": "Chrome",
+            "App Category": [], 
+            "App Path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe", 
+            "App Thumbnail": "chrome.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        },
+         {
+            "App Infos": "Put Info here ...",
+            "App Root": "Autodesk" , 
+            "App Name": "Maya",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Autodesk\\Maya2018\\bin\\maya.exe", 
+            "App Thumbnail": "maya.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        },
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "" , 
+            "App Name": "Nuke",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Nuke8.0v5\\Nuke8.0.exe", 
+            "App Thumbnail": "maya.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        },
+        {
+            "App Infos": "Put Info here ...",
+            "App Root": "Allegorithmic" , 
+            "App Name": "Substance Player",
+            "App Category": [], 
+            "App Path": "C:\\Program Files\\Allegorithmic\\Substance Player\\Substance Player\\Substance Player.exe", 
+            "App Thumbnail": "subplayer.png", 
+            "App Versions": "2017", 
+            "App Tags": []
+        }
+    ]
+}
